@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../www"
+		},
+		{
+			"name": "Git Repositories",
+			"path": "../.."
+		}
+	]
+}
